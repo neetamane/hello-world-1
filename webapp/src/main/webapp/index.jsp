@@ -1,3 +1,3 @@
-Hello, Welcome to Valaxy Technologies !!
+Hello, Greetings from Valaxy Technologies !!
 
 Deployment is going to happen through ansible
